@@ -1,0 +1,34 @@
+Item: Rice
+Types: Basmati, Brown, Jasmine, Parboiled
+Storage: Store in a cool, dry place in an airtight container.
+Shelf Life: 6 months to 1 year (uncooked)
+
+Item: Milk
+Types: Whole, Skimmed, Toned, Plant-based (Almond, Soy)
+Storage: Refrigerate below 4°C
+Shelf Life: 5–7 days (once opened)
+
+Item: Eggs
+Category: Dairy substitute
+Storage: Refrigerate in original carton
+Shelf Life: 3–5 weeks
+
+Item: Tomatoes
+Category: Vegetables
+Storage: Room temperature until ripe, then refrigerate
+Shelf Life: 1 week (after ripening)
+
+Term: Organic Label
+Definition: Items grown without synthetic fertilizers, pesticides, or GMOs.
+Examples: Organic fruits, vegetables, dairy, meat
+
+Item: Bread
+Types: Whole wheat, White, Multigrain, Sourdough
+Storage: Cool dry place, or refrigerate to extend shelf life
+Shelf Life: 5–7 days
+
+Tip: Use-by Date
+Explanation: The last date recommended for use while the product is at peak quality. After this, safety isn't guaranteed.
+
+
+
